@@ -36,6 +36,7 @@ while True:
 print(s.recv(1024).decode())
 s.send("Acknowledgement Recived".encode())
 ```
+
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/1d91395a-6d1b-495d-b194-ffdb404e80e1)
 
