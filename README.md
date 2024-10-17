@@ -1,4 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
+
+## NAME : RITHIKA N
+## REG NO : 212223230172
+
 ## AIM: 
 To write a python program to perform stop and wait protocol
 
